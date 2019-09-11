@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbbc5c2-d1fc-49eb-8002-f9d7edb29e47" name="Default Changelist" comment="22">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/app.c9e1fd8dff810ffa6ccfe610f7194c9c.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/app.c9e1fd8dff810ffa6ccfe610f7194c9c.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/element-icons.535877f.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/element-icons.732389d.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/app.854e16e17c86e5590dd8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/app.854e16e17c86e5590dd8.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/vendor.9e671dafb8450e958c9d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/vendor.9e671dafb8450e958c9d.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/configuration.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/configuration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.1077e829fd342432c1b756f43e0c6040.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.1077e829fd342432c1b756f43e0c6040.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.5ffe06ff6f8b21ce8002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.5ffe06ff6f8b21ce8002.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor.d5ced11d648e0dba51c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor.d5ced11d648e0dba51c8.js.map" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,15 +31,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="2" />
-          <entry key="json" value="2" />
+          <entry key="js" value="3" />
+          <entry key="json" value="3" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="2" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -66,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
+            <state relative-caret-position="624">
               <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
             </state>
           </provider>
@@ -84,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/configuration.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+            <state relative-caret-position="405">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -98,8 +95,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/static/configuration.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -178,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568173596139</updated>
-      <workItem from="1568173597255" duration="752000" />
+      <workItem from="1568173597255" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="22">
       <created>1568173654531</created>
@@ -219,7 +216,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="752000" />
+    <option name="totallyTimeSpent" value="1600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -255,15 +252,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="22" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://E:/360下载/GitHub-Laziji.github.io-master/static/js/app.5ffe06ff6f8b21ce8002.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
+        <state relative-caret-position="624">
           <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://E:/360下载/GitHub-Laziji.github.io-master/static/js/app.5ffe06ff6f8b21ce8002.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.854e16e17c86e5590dd8.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -274,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/configuration.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
