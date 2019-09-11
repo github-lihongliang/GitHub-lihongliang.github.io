@@ -31,6 +31,6 @@
 
 
 
-  [1]: https://github-lihongliang.github.io
+  [1]: https://lihongliang.github.io
   [2]: https://github.com/lihongliang/github-lihongliang.github.io
   [3]: https://github.com/github-lihongliang/MBlog.git
