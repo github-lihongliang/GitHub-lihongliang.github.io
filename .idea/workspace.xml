@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dbbc5c2-d1fc-49eb-8002-f9d7edb29e47" name="Default Changelist" comment="22">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.1077e829fd342432c1b756f43e0c6040.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.1077e829fd342432c1b756f43e0c6040.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.5ffe06ff6f8b21ce8002.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.5ffe06ff6f8b21ce8002.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/vendor.d5ced11d648e0dba51c8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/vendor.d5ced11d648e0dba51c8.js.map" beforeDir="false" />
-    </list>
+    <list default="true" id="8dbbc5c2-d1fc-49eb-8002-f9d7edb29e47" name="Default Changelist" comment="22" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,6 +15,7 @@
     <session id="-2007897766">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -175,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568173596139</updated>
-      <workItem from="1568173597255" duration="1600000" />
+      <workItem from="1568173597255" duration="2027000" />
     </task>
     <task id="LOCAL-00001" summary="22">
       <created>1568173654531</created>
@@ -216,7 +207,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1600000" />
+    <option name="totallyTimeSpent" value="2027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
